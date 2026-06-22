@@ -1,4 +1,4 @@
-markdown_content = """# Claude Custom Skills Repository
+# Claude Security Skills
 
 This repository serves as a centralized, open-source library of specialized system instructions, profile configurations, and context patterns designed to optimize Claude for advanced technical roles. Each plugin within this repository is engineered to enforce rigorous behavioral boundaries, domain-specific methodology, and strict quality controls.
 
